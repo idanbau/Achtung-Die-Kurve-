@@ -1,0 +1,1 @@
+﻿target_include_directories (oop2_project_Idan_Baumer_David_Zeev PRIVATE ${CMAKE_CURRENT_LIST_DIR})
